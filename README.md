@@ -7,6 +7,7 @@ This repository documents my journey in understanding machine learning concepts,
 
 - **Chapter 2**: End-to-End Machine Learning Project
     - Example: Housing price prediction
-- **Chapter 3-continued**: [Further chapters to be added]
+- **Chapter 3**: Classification and Model Training with Metric Interpretation
+    - Example: MNIST dataset - “hello world” dataset for machine learning - consists of 70,000 small images of handwritten digits
 
 **Please Note**: The coursework and examples here are personal educational exercises. While this repository is public for sharing knowledge and learning experiences, it is not intended for direct copying or academic plagiarism. I encourage viewers to use these materials as a reference for learning and to create original work based on their understanding.
