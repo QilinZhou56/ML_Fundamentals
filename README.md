@@ -9,5 +9,7 @@ This repository documents my journey in understanding machine learning concepts,
     - Example: Housing price prediction
 - **Chapter 3**: Classification and Model Training with Metric Interpretation
     - Example: MNIST dataset - “hello world” dataset for machine learning - consists of 70,000 small images of handwritten digits
+- **Chapter 4-6**: SVM models, Decision Trees, and Ensemble Learning
+
 
 **Please Note**: The coursework and examples here are personal educational exercises. While this repository is public for sharing knowledge and learning experiences, it is not intended for direct copying or academic plagiarism. I encourage viewers to use these materials as a reference for learning and to create original work based on their understanding.
