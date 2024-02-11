@@ -11,6 +11,7 @@ This repository documents my journey in understanding machine learning concepts,
     - Example: MNIST dataset - “hello world” dataset for machine learning - consists of 70,000 small images of handwritten digits
 - **Chapter 4-7**: SVM models, Decision Trees, and Ensemble Learning
 - **Chapter 8-9**: Dimensionality Reduction and Unsupervised Learning
+- **Chapter 10**: Introduction to Artificial Neural Networks with Keras
   
 
 
