@@ -12,6 +12,7 @@ This repository documents my journey in understanding machine learning concepts,
 - **Chapter 4-7**: SVM models, Decision Trees, and Ensemble Learning
 - **Chapter 8-9**: Dimensionality Reduction and Unsupervised Learning
 - **Chapter 10**: Introduction to Artificial Neural Networks with Keras
+- **Chapter 11**: Training Deep Neural Networks
   
 
 
