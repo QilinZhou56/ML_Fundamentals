@@ -14,6 +14,9 @@ This repository documents my journey in understanding machine learning concepts,
 - **Chapter 10**: Introduction to Artificial Neural Networks with Keras
 - **Chapter 11**: Training Deep Neural Networks
     - Example: The CIFAR-10 dataset - consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. Reference: https://www.cs.toronto.edu/~kriz/cifar.html
+
+- **Chapter 17**:Representation Learning and Generative Learning Using Autoencoders and GANs
+    - Example: Use a denoise autoencoder, variational autoencoder, DCGAN, conditional GAN to conduct representational learning in CIFAR-10 dataset
   
 
 
