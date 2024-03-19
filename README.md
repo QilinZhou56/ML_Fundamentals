@@ -4,7 +4,7 @@ This repository documents my journey in understanding machine learning concepts,
 
 
 ## Chapters Covered
-
+- **algorithm.ipynb**: a supplementary file for optimizing data structures behind machine learning (keep updating)
 - **Chapter 2**: End-to-End Machine Learning Project
     - Example: Housing price prediction
 - **Chapter 3**: Classification and Model Training with Metric Interpretation
