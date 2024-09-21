@@ -23,4 +23,3 @@ This repository documents my journey in understanding machine learning concepts,
   
 
 
-**Please Note**: The coursework and examples here are personal educational exercises. While this repository is public for sharing knowledge and learning experiences, it is not intended for direct copying or academic plagiarism. I encourage viewers to use these materials as a reference for learning and to create original work based on their understanding.
